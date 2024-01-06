@@ -1,6 +1,8 @@
 # > Microsoft
 USER-AGENT,OneDrive*
 DOMAIN-KEYWORD,onedrive
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,files.1drv.com
