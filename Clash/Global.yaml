@@ -1,3 +1,5 @@
 payload:
   - '+.appstorrent.ru'
   - '+.gstatic.com'
+  - '+.googletagmanager-cn.com'
+  - '+.googletagmanager.com'
