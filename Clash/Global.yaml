@@ -3,3 +3,5 @@ payload:
   - '+.gstatic.com'
   - '+.googletagmanager-cn.com'
   - '+.googletagmanager.com'
+  - '+.google-analytics-cn.com'
+  - '+.google-analytics.com'
