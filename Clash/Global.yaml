@@ -1,7 +1,9 @@
 payload:
-  - '+.appstorrent.ru'
-  - '+.gstatic.com'
-  - '+.googletagmanager-cn.com'
-  - '+.googletagmanager.com'
-  - '+.google-analytics-cn.com'
-  - '+.google-analytics.com'
+  - DOMAIN,fontfiles.googleapis.com
+  - DOMAIN,fonts.googleapis.com
+  - DOMAIN-SUFFIX,appstorrent.ru
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,googletagmanager-cn.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,google-analytics-cn.com
+  - DOMAIN-SUFFIX,google-analytics.com
