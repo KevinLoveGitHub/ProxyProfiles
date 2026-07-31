@@ -1,4 +1,7 @@
 payload:
+  # google.com 全域强制代理：DNS 污染会使其解析到国内 IP 而被 GEOIP,CN 劝退直连，
+  # 且下游规则集（如 Gemini）维护滞后，签名域名 signaler-pa.clients6.google.com 等易漏网
+  - '+.google.com'
   # Gemini 登录跳转依赖此域名，Advertising 列表会 REJECT，需在第一层放行
   - 'www.googleadservices.com'
   - 'fontfiles.googleapis.com'
