@@ -2,3 +2,8 @@ payload:
   - '+.kangxiaoguang.com'
   - '+.48264.top'
   - '+.jiagu.360.cn'
+  # 京东遥测上报域名：被 reject.txt 拦截后，H5 页面（如价格保护结果弹窗）
+  # 上报链路抛异常会中断后续渲染，放行走直连。ads-union.jd.com 属纯广告，保持拦截
+  - '+.sgm-w.jd.com'
+  - '+.mllog.jd.com'
+  - '+.log.jd.com'
